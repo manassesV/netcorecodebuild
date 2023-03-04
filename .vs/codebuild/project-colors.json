@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcea0007-b44b-4bd9-a888-472a7225f218": {
+      "ProjectGuid": "fcea0007-b44b-4bd9-a888-472a7225f218",
+      "DisplayName": "codebuild",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
